@@ -23,6 +23,8 @@ Users can input their health data (calorie intake,weight,last purchase,refill da
  
  This is a development prototype,prouction version involved additional features like password reset,admin notes etc
  
+ (.env files notincluded)
+ 
  #### Hosted on linode,Static filesrendered from S3 bucket.
  
  *Even tho one repo is named Herbalife the project is in no way associated with Herbalife.

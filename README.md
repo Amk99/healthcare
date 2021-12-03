@@ -29,4 +29,4 @@ Users can input their health data (calorie intake,weight,last purchase,refill da
  
  #### Hosted on linode,Static filesrendered from S3 bucket.
  
- *Even tho one repo is named Herbalife the project is in no way associated with Herbalife.
+ *Even tho one folder is named Herbalife the project is in no way associated with Herbalife.Coincidence
